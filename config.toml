@@ -1,0 +1,61 @@
+baseURL = "https://jtuz.github.io/"
+languageCode = "en-us"
+defaultcontentlanguage = "en-us"
+title = "JTUZP's Blog"
+theme = "hugo-coder"
+
+paginate = 20
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+  mainSections = ["about"]
+  author = "Jacob Tuz Poot"
+  info = "Backend Engineer"
+  description = "Jacob Tuz Poot's personal website"
+  keywords = "blog,developer,personal,backend"
+  colorScheme = "dark"
+  # avatarurl = "images/me.jpg"
+  gravatar = "jetp79@gmail.com"
+  enableTwemoji = true
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+  about = "about"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/jtuz/"
+[[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter fa-2x"
+  weight = 2
+  url = "https://twitter.com/jtuz/"
+[[params.social]]
+  name = "Linked In"
+  weight = 3
+  icon = "fa fa-linkedin fa-2x"
+  url = "https://www.linkedin.com/in/jacobtuz/"
+[[params.social]]
+  name = "Email"
+  weight = 4
+  icon = "fa fa-envelope fa-2x"
+  url = "mailto:jetp79@proton.me"
+
+# Menu links
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "posts/"
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about/"
