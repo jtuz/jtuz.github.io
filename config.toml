@@ -17,8 +17,8 @@ pygmentscodefencesguesssyntax = true
   description = "Jacob Tuz Poot's personal website"
   keywords = "blog,developer,personal,backend"
   colorScheme = "dark"
-  # avatarurl = "images/me.jpg"
-  gravatar = "jetp79@gmail.com"
+  avatarurl = "images/me.jpg"
+  # gravatar = "jetp79@gmail.com"
   enableTwemoji = true
 
 [taxonomies]
