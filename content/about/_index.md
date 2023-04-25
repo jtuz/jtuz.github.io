@@ -12,4 +12,4 @@ The main areas where I have oriented my career are Software Development, Linux S
 
 Over time I have worked with cloud services such as AWS, GCP, and their respective products(EC2, ECS, Serverless, etc.); I love Golang, Python and of course Django Web Framework; You can check more about me in my LinkedIn profile.
 
-And last but not least, at the time I'm starting this blog I'm learning and improving my English skills, currently I'm in B1.5 level so please don't be rude if a made mistakes.
+And last but not least, at the time I'm starting this blog I'm learning and improving my English skills, currently I'm in B1.5 level so please don't be rude if a make mistakes.
